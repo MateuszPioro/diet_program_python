@@ -17,8 +17,8 @@ class Products:
         self.protein=self.protein*weight/100
         self.carbo=self.carbo*weight/100
         self.fat=self.fat*weight/100
-   
-   
+
+print("ssaas")      
 class Diary:
     def __init__(self) -> None:
         self.lista=[]
