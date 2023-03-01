@@ -100,6 +100,14 @@ for product in result:
 # my_diary_loaded = Diary()
 # my_diary_loaded.load_from_file("my_diary.pkl")
 
+
+# my_diary.save_to_file("my_diary.pkl")
+
+ 
+# my_diary_loaded = Diary()
+# my_diary_loaded.load_from_file("my_diary.pkl")
+
+
  
   
  
