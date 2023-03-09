@@ -91,7 +91,9 @@ for product in result:
     print(f"{product.name}")
 
 
- 
+
+
+print("first")
 
 
 # my_diary.save_to_file("my_diary.pkl")
